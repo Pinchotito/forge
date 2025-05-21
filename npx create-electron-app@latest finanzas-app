@@ -1,0 +1,10 @@
+cd finanzas-app
+npm start
+npm run make
+"build": {
+  "appId": "com.tuempresa.finanzasapp",
+  "productName": "FinanzasApp",
+  "win": {
+    "icon": "ruta/a/tu/icono.ico"
+  }
+}
